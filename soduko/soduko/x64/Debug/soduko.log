@@ -1,0 +1,5 @@
+﻿  app.c
+  memory.c
+C:\Users\user\Downloads\volume\volume\soduko\soduko\memory.c(11,21): warning C4013: 'm_free_and_exit' undefined; assuming extern returning int
+C:\Users\user\Downloads\volume\volume\soduko\soduko\memory.c(60,6): error C2371: 'm_free_and_exit': redefinition; different basic types
+  Generating Code...
